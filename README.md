@@ -36,7 +36,7 @@ Once downloaded you can open the `SmartHotel360.WebSite.sln` file, located in th
 
 > Note: You will need NodeJS installed and Azure CLI in order to run the solution locally.
 
-# Deploy to Azure
+# Deploy to MS Azure
 
 We will need an Azure Function (for the pet checker feature), Blob Storage (for storing the pets images), Cosmos DB (stores documents with the pet information), Vision API (to recognize the pets), SignalR Service (to manage the requests), App Service (for the website) and  Application Insights (for monitoring). 
 
